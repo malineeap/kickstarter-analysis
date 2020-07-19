@@ -1,9 +1,8 @@
 # An Analysis of Kickstarter Campaigns
 Module 1 UCF Bootcamp - Kickstarter trend analysis
 
-![Outcomes by Category](C:\Users\malin\OneDrive\Documents\Malinee\Bootcamp\1 Crowdfunding\OutcomesChart.png)
+<img src="https://assets.simpleviewinc.com/simpleview/image/fetch/c_fill,h_553,q_75,w_1105/https://assets.simpleviewinc.com/simpleview/image/upload/crm/omaha/ralsoncommunitytheater0_3db4315c-5056-a36a-09b4eb319c31d33b.jpg"  width=300 align=center>
 
-![Outcomes by Launch](C:\Users\malin\OneDrive\Documents\Malinee\Bootcamp\1 Crowdfunding\OutcomesLaunch.png)
 
 ### Analysis Summary: 
 - Q2 is recommended target for launch.  
